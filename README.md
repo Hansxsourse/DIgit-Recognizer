@@ -7,5 +7,5 @@ I use a easy CNN to train this model
 
 
 
-# after 100 Epoch of training we get the best train acc of 99.99%, the best vall acc of 99.97%
+# after 100 Epoch of training we get the best train acc of 100.00%, the best vall acc of 99.97%
 # And we get the acc of in Kaggle test set
